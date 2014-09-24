@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 EUC Syd - Teknisk Gymnasium Sønderjylland
+=======
+EUC Syd
+>>>>>>> -Adding elevcampus.dk
