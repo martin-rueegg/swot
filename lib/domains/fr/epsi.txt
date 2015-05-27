@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Ecole Privée des Sciences Informatiques
+=======
+Ecole Privée des Sciences Informatiques
+>>>>>>> Added EPSI school
